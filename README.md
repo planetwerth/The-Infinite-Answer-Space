@@ -16,7 +16,7 @@ $\mathbf{B}$ is a revolutionary concept: an infinitely rich, structured space th
 
 * **Semantic Search Enables Discovery:** Because answers form meaningful clusters, AI or humans can search $\mathbf{B}$ semantically — exploring groups of related truths and uncovering surprising connections organically.
 
-* **A-Star Search in $\mathbf{B}$:*\* Using intelligent search algorithms like A\*, you can efficiently explore $\mathbf{B}$, prioritizing paths that lead quickly to answers by leveraging the clustering structure.
+* **A* Search in $\mathbf{B}$:*\* Using intelligent search algorithms like A\*, you can efficiently explore $\mathbf{B}$, prioritizing paths that lead quickly to answers by leveraging the clustering structure.
 
 ## Why This Matters
 
